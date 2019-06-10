@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="constrainLayout" type="id" />
+    <item name="current_pick" type="id" />
+    <item name="textViewInfo" type="id" />
+</resources>

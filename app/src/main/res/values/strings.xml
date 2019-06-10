@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab4_2</string>
+
+    <string name="current_pick"></string>
+    <string name="color_red">Червоний</string>
+    <string name="color_green">Зелений</string>
+    <string name="color_blue">Синій</string>
+    <string name="color_none">Стандарт</string>
+
+    <string name="about_text">
+        Результат обчислень:
+    </string>
+    <string name="title_activity_second_page">SecondPage</string>
+
+</resources>
